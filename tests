@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo "TEST 1"
+./a.out < test1.in
+echo "TEST 2"
+./a.out < test2.in
+echo "TEST 3"
+./a.out < test3.in
+echo "TEST 4"
+./a.out < test4.in
+echo "TEST 5"
+./a.out < test5.in
